@@ -1,0 +1,6 @@
+target/
+build/
+*.dol
+*.elf
+*.exe
+/png_parser
